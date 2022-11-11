@@ -1,11 +1,6 @@
-# Terpbuy Sales Analysis using MySQL and Python 
+# Terpbuy Sales Analysis
 > TerpBuy is a global business-to-consumer and business-to-business platform. The company is looking for insights on different aspects of its customers, products, departments, and orders.
 
-
-## Table of Contents
-* [General Info](#general-information)
-* [Executive Summary](#executive-summary)
-* [Acknowledgements](#acknowledgements)
 
 
 ## General Information
@@ -24,12 +19,6 @@
 
 * Further analysis is needed to analyze the external factors such as COVID, product price, customer satisfaction, customer service, and other factors affecting the decrease in total sales. The company has wide range of customer base all over the US and improving certain logistical and inventory factors will help to increase the sales over the coming years.
 
-
-
-## Technologies Used
-- Python programming
-- MySQL
-- Github
 
 
 ## Acknowledgements
