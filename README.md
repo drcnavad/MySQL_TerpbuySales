@@ -6,6 +6,7 @@
 ## General Information
 - This project uses [MySQL queries](https://github.com/drcnavad/MySQL_TerpbuySales/blob/main/TERPBUY%20PROJECT%20ASSIGNMENT.pdf) to analyse various aspects of the dataset. The visualizations are created using [Python](https://github.com/drcnavad/MySQL_TerpbuySales/blob/main/TERPBUY%20ASSIGNMENT.ipynb). The executive summary is provided in a plain [pdf file](https://github.com/drcnavad/MySQL_TerpbuySales/blob/main/Terpbuy%20Executive%20Summary.pdf).
 
+The main focus of this project is MySQL. Check my other project [Lending Club Analysis](https://github.com/drcnavad/EDA_LendingClubCaseStudy) for EDA and visualizations using Python. 
 
 
 ## Executive Summary
