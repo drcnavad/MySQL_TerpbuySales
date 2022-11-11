@@ -3,8 +3,8 @@
 
 
 ## Table of Contents
-* [General Info](#general information)
-* [Conclusions](#conclusions)
+* [General Info](#general-information)
+* [Executive Summary](#executive-summary)
 * [Acknowledgements](#acknowledgements)
 
 
@@ -13,7 +13,7 @@
 
 
 
-## Conclusions
+## Executive Summary
 * The company sales decreased in past 2 years which can be attributed to few factors in the dataset.
 
 * The number of orders with delayed shipping are high and Terpbuy’s should try to minimize these delays in shipping products.
